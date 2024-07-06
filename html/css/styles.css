@@ -47,7 +47,7 @@ nav ul li a:hover {
 }
 .banner {
     text-align: center;
-    background-image: url(/images/betterbanner.jpg);
+    background-image: url(image/betterbanner.jpg);
     background-size:cover;
     min-height:25em;
 }
@@ -184,7 +184,7 @@ article a:hover {
 article h1 {
     text-align: center;
     height: 100px;
-    background-image: url(/images/wallpaper.jpg);
+    background-image: url(image/wallpaper.jpg);
     background-size: cover;
 }
 .top {
@@ -250,7 +250,7 @@ button:hover {
     color: red;
 }
 #accountBody, #orderBody {
-    background-image: url(/images/orderWallpaper.jpg);
+    background-image: url(image/orderWallpaper.jpg);
 }
 #orderItems {
     padding: 15px;
